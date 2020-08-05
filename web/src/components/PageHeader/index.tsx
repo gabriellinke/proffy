@@ -8,6 +8,7 @@ import './styles.css';
 interface PageHeaderProps
 {
     title: string;
+    description?: string;
 }
 
 const PageHeader: React.FC<PageHeaderProps> = (props) =>
@@ -21,6 +22,7 @@ const PageHeader: React.FC<PageHeaderProps> = (props) =>
                 </div>
                 <div className="header-content">
                     <strong>{props.title}</strong>
+                    { props.description && <p>{props.description}</p> /*Só executa o da direita se o primeiro for true. Posso fazer vários em sequência*/ }
                     {props.children}
                 </div>
             </header>          
