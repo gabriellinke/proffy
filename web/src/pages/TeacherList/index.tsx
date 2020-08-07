@@ -25,8 +25,8 @@ function TeacherList()
                 time,
             }
         })
-            .then(reponse => {
-                setTeachers(reponse.data);
+            .then(response => {
+                setTeachers(response.data);
             })
     }
 
