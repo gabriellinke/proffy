@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriellinke/NLW-02-Booster?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriellinke/NLW-02-Booster?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/gabriellinke/NLW-02-Booster?style=flat-square"> 
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=#555">
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
 
@@ -47,7 +47,7 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Roc
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/gabriellinke/NLW-02-Booster.git
+  $ git clone https://github.com/gabriellinke/proffy.git
 ```
 
 2. Executando a Aplicação:
