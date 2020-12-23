@@ -47,7 +47,7 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Roc
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/gabriellinke/proffy.git
+  $ git clone https://github.com/gabriellinke/Proffy.git
 ```
 
 2. Executando a Aplicação:
